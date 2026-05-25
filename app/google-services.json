@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "429092386390",
+    "firebase_url": "https://intprogch-default-rtdb.firebaseio.com",
+    "project_id": "intprogch",
+    "storage_bucket": "intprogch.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:429092386390:android:e2becd5710b3a0cbc52df7",
+        "android_client_info": {
+          "package_name": "com.example.intprogch"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3eb_rOmtxCPgwAGNbsOmfay4n8HQhe-Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

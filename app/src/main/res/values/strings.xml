@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">QuickBite</string>
+
+    <!-- Login / Register -->
+    <string name="register_title">Create Account</string>
+
+    <!-- Main -->
+    <string name="add_food">Add Food Item</string>
+    <string name="update_food">Update Food Item</string>
+    <string name="btn_save">Save Item</string>
+    <string name="btn_update">Update Item</string>
+    <string name="btn_delete">Delete Item</string>
+</resources>
